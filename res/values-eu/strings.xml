@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Random Pretexts</string>
+    <string name="frase_inicial">Zure mugikorra astindu aitzakia sortzeko&#8230;</string>
+    <string name="img_agitar">Mugikorra astintzeko irudia</string>
+
+    <string-array name="pretextos">
+        <item>Nire txakurrak etxekolanak jan ditu</item>
+        <item>Iratzargailuak ez du soinurik egin</item>
+        <item>Trena galdu dut</item>
+        <item>Burukomina daukat</item>
+        <item>Nire kristal bola tailerrean konpontzen ari dira</item>
+        <item>Ez zaitut ikusi</item>
+        <item>Ikasi behar zenuen</item>
+        <item>Gau txarra izan dut</item>
+        <item>Kotxea hondatu zait</item>
+        <item>Mugikorra koberturarik gabe geratu zen</item>
+        <item>Ahantzi dut</item>
+        <item>Kanarioa hil zait</item>
+    </string-array>
+
+    <string name="action_settings">Konfigurazioa</string>
+    <string name="info">Egilea</string>
+    <string name="info_autor">\n\tAritz Piñero-k garatua. \n\n\tLaura López-ek irudiztatua.\n</string>
+    <string name="title_activity_info_autor">Informazioa</string>
+
+</resources>

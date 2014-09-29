@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Random Pretexts</string>
+    <string name="frase_inicial">Agita tu teléfono para generar un pretexto&#8230;</string>
+    <string name="img_agitar">Imagen para agitar teléfono</string>
+
+    <string-array name="pretextos">
+        <item>Mi perro se ha comido los deberes</item>
+        <item>No ha sonado el despertador</item>
+        <item>He perdido el tren</item>
+        <item>Me duele la cabeza</item>
+        <item>Están reparando mi bola de cristal en el taller</item>
+        <item>No te he visto</item>
+        <item>Haber estudiado</item>
+        <item>He pasado mala noche</item>
+        <item>Se me ha averiado el coche</item>
+        <item>No tenía cobertura en el móvil</item>
+        <item>Se me ha ido el santo al cielo</item>
+        <item>Se me ha muerto el canario</item>
+    </string-array>
+
+    <string name="action_settings">Configuración</string>
+    <string name="info">Autor</string>
+    <string name="info_autor">\n\tDesarrollado por Aritz Piñero. \n\n\tIlustrado por Laura López.\n</string>
+    <string name="title_activity_info_autor">Información</string>
+
+</resources>

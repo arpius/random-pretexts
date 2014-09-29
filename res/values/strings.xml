@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Random Pretexts</string>
+    <string name="frase_inicial">Shake your phone to generate a pretext&#8230;</string>
+    <string name="img_agitar">Image to shake phone</string>
+
+    <string-array name="pretextos">
+        <item>My dog has eaten the homeworks</item>
+        <item>No sound on the wake-up alarm</item>
+        <item>I lost the train</item>
+        <item>It is giving me a splitting headache</item>
+        <item>I took my crystal ball to be repaired in garage</item>
+        <item>I do not see you</item>
+        <item>Go and study</item>
+        <item>I passed a bad night</item>
+        <item>My car broke down</item>
+        <item>My phone was no coverage</item>
+        <item>Lose your train of thought</item>
+        <item>My canary is dead</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="info">Author</string>
+    <string name="info_autor">\n\tDeveloped by Aritz Piñero. \n\n\tIllustrated by Laura López.\n</string>
+    <string name="title_activity_info_autor">Information</string>
+
+</resources>
